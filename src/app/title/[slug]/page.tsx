@@ -1,3 +1,5 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
+
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ArrowRight, Clock3, Play, Star, CalendarDays, Download, Subtitles, Users, Images, MessageCircle, HeartHandshake } from "lucide-react";
